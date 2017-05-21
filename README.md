@@ -7,6 +7,7 @@ Responsive Web design is the basic necessity in todays IT Development as it shou
 1. Clone or download the repository.
 2. Run index.html page
 3. Try to resize the webpage, you will find media query effects
+4. Note to see the pixels in google chrome you wan to apply do right click, and inspect element(You will find pixels written in top righ t of the page)
 
 ## Snippet1
 
